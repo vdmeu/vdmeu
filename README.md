@@ -14,7 +14,7 @@ The missing piece in most AI-assisted engineering is not the code generation, it
 
 - **[Registrum](https://registrum.co.uk)** - production SaaS API for UK company data, built AI-native with Claude Code. Includes [`@registrum/mcp`](https://www.npmjs.com/package/@registrum/mcp), an MCP server that exposes company data as agent tools for Claude Desktop, Cursor, and any MCP client.
 - **Workflow dispatcher** - multi-agent orchestration system running every 3 hours. Voice dictation on phone -> OneNote -> Node.js dispatcher -> separate Claude Code sessions per project. Overnight harness for unattended runs. 106 unit tests.
-- **Cupel** - AI trust and credentials governance framework. Original thinking on what EU AI Act enforcement (August 2026) means for professional provenance, with a W3C VC-aligned open spec.
+- **[Cupel](https://cupel.foundation)** - AI trust and credentials governance framework. Original thinking on what EU AI Act enforcement (August 2026) means for professional provenance, with a W3C VC-aligned open spec.
 
 ---
 
