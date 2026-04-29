@@ -2,9 +2,9 @@
 
 **Delivery Lead | Enterprise Platforms and Practices | Schroders**
 
-9 years as an engineer. 17 years leading delivery - from managing engineering teams at Sotheby's, through Agile transformation at ASOS and Sonovate, up to cross-enterprise AI programme delivery at Schroders. Now back writing code, because AI has made that the most valuable place to be again.
+9 years as an engineer. 17 years leading delivery - from managing engineering teams at Sotheby's, through Agile transformation at ASOS and Sonovate, up to cross-enterprise AI programme delivery at Schroders. Now back producing code - with agents.
 
-That arc is the point. I know what good engineering looks like from the inside, I know how to land things at enterprise scale, and I can build the AI systems myself. Most people have one of those. I have all three.
+The missing piece in most AI-assisted engineering is not the code generation, it is the structure and guardrails around it. Process that worked at human coding pace breaks when output accelerates ten-fold. That is the problem 26 years of engineering and delivery experience is built to solve.
 
 ---
 
