@@ -2,7 +2,7 @@
 
 **Delivery Lead | Enterprise Platforms and Practices | Schroders**
 
-I started as an engineer. Spent years moving up through delivery - team lead, programme lead, cross-enterprise strategy. Now I'm back writing code, because AI has made that the most valuable place to be again.
+9 years as an engineer. 17 years leading delivery - from managing engineering teams at Sotheby's, through Agile transformation at ASOS and Sonovate, up to cross-enterprise AI programme delivery at Schroders. Now back writing code, because AI has made that the most valuable place to be again.
 
 That arc is the point. I know what good engineering looks like from the inside, I know how to land things at enterprise scale, and I can build the AI systems myself. Most people have one of those. I have all three.
 
