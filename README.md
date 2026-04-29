@@ -1,18 +1,20 @@
 # Eugene Merwe-Chartier
 
-**Delivery Lead | Enterprise Platforms and Practices**
+**Delivery Lead | Enterprise Platforms and Practices | Schroders**
 
-I work at the intersection of enterprise programme delivery and hands-on AI engineering. Most people have one or the other. I have both.
+I started as an engineer. Spent years moving up through delivery - team lead, programme lead, cross-enterprise strategy. Now I'm back writing code, because AI has made that the most valuable place to be again.
+
+That arc is the point. I know what good engineering looks like from the inside, I know how to land things at enterprise scale, and I can build the AI systems myself. Most people have one of those. I have all three.
 
 ---
 
-**At Schroders** I deliver AI programmes at scale — strategy through production. That means shaping architecture decisions across 8+ stakeholder groups, governing 80+ Architecture Decision Records, building a live portfolio dashboard on a 30-minute automated pipeline, and running a meeting intelligence system that converts Teams transcripts into structured, searchable actions. Also: Zero Trust AI audits and a 69-test stability scaffold around the automation layer.
+**At Schroders** I deliver AI programmes across EPP - shaping architecture decisions with 8+ stakeholder groups, governing 80+ Architecture Decision Records, and building production systems: a live portfolio dashboard on a 30-minute pipeline, a meeting intelligence system that converts Teams transcripts into structured actions, and a multi-agent automation layer with a 69-test stability scaffold. Also: Zero Trust AI audits and ADR governance schema design.
 
 **On the side** I build the tools I wish existed:
 
-- **[Registrum](https://registrum.co.uk)** — production SaaS API for UK company data, built AI-native with Claude Code. Includes [`@registrum/mcp`](https://www.npmjs.com/package/@registrum/mcp), an MCP server that exposes company data as agent tools for Claude Desktop, Cursor, and any MCP client.
-- **Workflow dispatcher** — multi-agent orchestration system running on Windows Task Scheduler every 3 hours. Voice dictation on phone → OneNote → Node.js dispatcher → separate Claude Code sessions per project. Overnight harness for unattended runs. 106 unit tests.
-- **Cupel** — AI trust and credentials governance framework. Original thinking on what EU AI Act enforcement (August 2026) means for professional provenance, with a W3C VC-aligned open spec.
+- **[Registrum](https://registrum.co.uk)** - production SaaS API for UK company data, built AI-native with Claude Code. Includes [`@registrum/mcp`](https://www.npmjs.com/package/@registrum/mcp), an MCP server that exposes company data as agent tools for Claude Desktop, Cursor, and any MCP client.
+- **Workflow dispatcher** - multi-agent orchestration system running every 3 hours. Voice dictation on phone -> OneNote -> Node.js dispatcher -> separate Claude Code sessions per project. Overnight harness for unattended runs. 106 unit tests.
+- **Cupel** - AI trust and credentials governance framework. Original thinking on what EU AI Act enforcement (August 2026) means for professional provenance, with a W3C VC-aligned open spec.
 
 ---
 
