@@ -1,6 +1,6 @@
-# Eugene van der Merwe
+# Eugene Merwe-Chartier
 
-**AI Delivery Lead | Enterprise AI Governance**
+**Delivery Lead | Enterprise AI Governance**
 
 I work at the intersection of enterprise programme delivery and hands-on AI engineering. Most people have one or the other. I have both.
 
