@@ -20,4 +20,4 @@ The missing piece in most AI-assisted engineering is not the code generation, it
 
 **Skills in practice:** AI programme delivery, agentic systems design, ADR governance, Microsoft Graph API, MCP server development, Claude/LLM integration, multi-agent orchestration, EU AI Act.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/eugenevdm) · eugene.vandermerwe@gmail.com
+**Contact:** [LinkedIn](https://www.linkedin.com/in/eugene-mc/) · eugene.vandermerwe@gmail.com
